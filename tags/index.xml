@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Parallel Computing and I/O Blog</title>
+    <link>https://blog.parcio.de/tags/</link>
+    <description>Recent content in Tags on Parallel Computing and I/O Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.parcio.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Correctness</title>
+      <link>https://blog.parcio.de/tags/Correctness/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.parcio.de/tags/Correctness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Message Passing</title>
+      <link>https://blog.parcio.de/tags/Message-Passing/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.parcio.de/tags/Message-Passing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://blog.parcio.de/tags/Rust/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.parcio.de/tags/Rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiency</title>
+      <link>https://blog.parcio.de/tags/Efficiency/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.parcio.de/tags/Efficiency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
